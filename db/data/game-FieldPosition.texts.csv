@@ -1,0 +1,19 @@
+code,locale,descr
+1,EN,Pitcher
+2,EN,Catcher
+3,EN,First Base
+4,EN ,Second Base
+5,EN,Third Base
+6,EN,Short Stop
+7,EN,Left Field
+8,EN,Center Field
+9,EN,Right Field
+1,ES,Lanzador
+2,ES,Receptor
+3,ES,Primer base
+4,ES ,Segunda base
+5,ES,Tercera base
+6,ES,Campo corto
+7,ES,Jardín izquierdo
+8,ES,Jardín central
+9,ES,Jardín derecho

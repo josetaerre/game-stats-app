@@ -1,0 +1,15 @@
+code,name,descr
+S,Single,Single
+D,Double,Double
+T,Triple,Triple
+HR,Home Run,Home Run
+K,Strikeout,Strikeout
+BB,Walk,Walk
+HBP,Hit By Pitch,Hit By Pitch
+ROE,Reached on Error,Reached on Error
+FC,Fielder's Choice,Fielder's Choice
+SACF,Sacrifice Fly,Sacrifice Fly
+SACB,Sacrifice Bunt,Sacrifice Bunt
+CI,Catcher Interference,Catcher Interference
+OUT,General Out,General Out
+DP,Double Play,Double Play

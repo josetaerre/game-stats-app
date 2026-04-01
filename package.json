@@ -1,0 +1,28 @@
+{
+  "name": "game-stats",
+  "version": "1.0.0",
+  "description": "Welcome to your new CAP project.",
+  "main": "importData.js",
+  "scripts": {
+    "start": "cds-serve",
+    "watch": "cds watch",
+    "watch-game": "cds watch --open game/webapp/index.html?sap-ui-xx-viewCache=false",
+    "import-data": "node importData.js" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sap/cds": "^8.9.8",
+    "express": "^4.22.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@cap-js/sqlite": "^1.11.1",
+    "@sap/cds-dk": "^8.9.15",
+    "sqlite3": "^5.1.7"
+  },
+  "sapux": [
+    "app/game"
+  ]
+}

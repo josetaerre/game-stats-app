@@ -1,0 +1,29 @@
+code,locale,descr
+S,EN,Single
+S,ES,Sencillo
+D,EN,Double
+D,ES,Doble
+T,EN,Triple
+T,ES,Triple
+HR,EN,Home Run
+HR,ES,Jonrón
+K,EN,Strikeout
+K,ES,Ponche
+BB,EN,Walk
+BB,ES,Base por bolas
+HBP,EN,Hit By Pitch
+HBP,ES,Pelotazo
+ROE,EN,Reached on Error
+ROE,ES,Llegó por error
+FC,EN,Fielder's Choice
+FC,ES,Jugada de selección
+SACF,EN,Sacrifice Fly
+SACF,ES,Fly de sacrificio
+SACB,EN,Sacrifice Bunt
+SACB,ES,Toque de sacrificio
+CI,EN,Catcher Interference
+CI,ES,Interferencia del receptor
+OUT,EN,General Out
+OUT,ES,Out
+DP,EN,Double Play
+DP,ES,Double Play
